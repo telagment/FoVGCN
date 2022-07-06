@@ -2,7 +2,7 @@
 
 PyTorch implementation of paper [[AN EFFECTIVE FOVEATED 360° IMAGE ASSESSMENT BASED ON GRAPH CONVOLUTION NETWORK]] "https://www.techrxiv.org/articles/preprint/AN_EFFECTIVE_FOVEATED_360_IMAGE_ASSESSMENT_BASED_ON_GRAPH_CONVOLUTION_NETWORK/19134935"
 
-(Some part of our code is referred from "https://github.com/weizhou-geek/VGCN-PyTorch.git" and paper "https://arxiv.org/abs/1609.02907", Thanks for their awesome works)
+(Some parts of our code is referred from "https://github.com/weizhou-geek/VGCN-PyTorch.git" and paper "https://arxiv.org/abs/1609.02907", Thanks for their awesome works)
 
 ## Install
 - pip install Pillow==6.2.0
