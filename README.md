@@ -19,10 +19,12 @@ PyTorch implementation of paper [[AN EFFECTIVE FOVEATED 360° IMAGE ASSESSMENT B
 
 ## Citation
 
-@article{truong2022effective,
-  title={AN EFFECTIVE FOVEATED 360° IMAGE ASSESSMENT BASED ON GRAPH CONVOLUTION NETWORK},
-  author={Truong, Thu Huong and Do Thu, Ha and Tran, Thi Thanh Huyen and Truong, Thang and Nam, Pham and Nguyen, Thanh and Ngo, Viet and Bui, Tien},
+@article{huong2022effective,
+  title={An Effective Foveated 360° Image Assessment Based on Graph Convolution Network},
+  author={Huong, Truong Thu and Tran, Huyen TT and Viet, Ngo Duc and Tien, Bui Duy and Thanh, Nguyen Huu and Thang, Truong Cong and Nam, Pham Ngoc and others},
+  journal={IEEE Access},
+  volume={10},
+  pages={98165--98178},
   year={2022},
-  publisher={TechRxiv}
+  publisher={IEEE}
 }
-
